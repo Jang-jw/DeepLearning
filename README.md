@@ -12,3 +12,5 @@
 ### ![DeepLearning_code_05](https://github.com/Jang-jw/DeepLearning/assets/134268098/bcd3e92e-1891-4794-8d5c-b24830ad0cda)
 ### 10/06 금 : 손글씨 다중분류 / gradio 
 ### ![DeepLearning_code_06](https://github.com/Jang-jw/DeepLearning/assets/134268098/b7144c01-d1b3-4f70-856c-63501d1a0656)
+### 10/10 화 : ZipFile / extractall / 이미지 전처리 / concatenate / savez_compressed 
+### ![DeepLearning_code_07](https://github.com/Jang-jw/DeepLearning/assets/134268098/00d63918-a607-4abe-be68-9773f2e16c54)
