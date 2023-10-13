@@ -14,3 +14,8 @@
 ### ![DeepLearning_code_06](https://github.com/Jang-jw/DeepLearning/assets/134268098/b7144c01-d1b3-4f70-856c-63501d1a0656)
 ### 10/10 화 : ZipFile / extractall / 이미지 전처리 / concatenate / savez_compressed 
 ### ![DeepLearning_code_07](https://github.com/Jang-jw/DeepLearning/assets/134268098/00d63918-a607-4abe-be68-9773f2e16c54)
+### 10/11 mlp / cnn / npz / EarlyStopping / Conv2D / Pooling2D / ModelCheckpoint / ImageDataGenerator Dropout / VGG16 
+### ![DeepLearning_code_08](https://github.com/Jang-jw/DeepLearning/assets/134268098/7b30d027-8ffe-43ff-bf50-33fc8a575487)
+### 10/12 YOLOv6 / roboflow / addict / glob / Image / display 
+##### https://blog.roboflow.com/how-to-train-yolov6-on-a-custom-dataset/
+### ![DeepLearning_code_09](https://github.com/Jang-jw/DeepLearning/assets/134268098/44ddb226-2b36-46b8-9ea2-6a615a961497)
