@@ -19,3 +19,6 @@
 ### 10/12 YOLOv6 / roboflow / addict / glob / Image / display 
 ##### https://blog.roboflow.com/how-to-train-yolov6-on-a-custom-dataset/
 ### ![DeepLearning_code_09](https://github.com/Jang-jw/DeepLearning/assets/134268098/44ddb226-2b36-46b8-9ea2-6a615a961497)
+### 10/17 ultralytics / roboflow / YOLO / glob / cv2 
+### ![DeepLearning_code_10](https://github.com/Jang-jw/DeepLearning/assets/134268098/e8c370e3-35c4-4496-8c6c-276a0298899d)
+### ![DeepLearning_code_11](https://github.com/Jang-jw/DeepLearning/assets/134268098/de604ca1-eb26-42f8-b708-e77d0c166950)
