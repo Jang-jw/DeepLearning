@@ -9,7 +9,6 @@
 ### ![DeepLearning_code_03](https://github.com/Jang-jw/DeepLearning/assets/134268098/6cb1d89f-e769-4ff6-a544-b1d7cdcf3630)
 ### 10/05 목 : sigmoid + SGD / sigmoid + adam / relu + adam 
 ### ![DeepLearning_code_04](https://github.com/Jang-jw/DeepLearning/assets/134268098/23fa584c-68d8-4870-b9dd-63c304a9e24e)
-### ![DeepLearning_code_05](https://github.com/Jang-jw/DeepLearning/assets/134268098/bcd3e92e-1891-4794-8d5c-b24830ad0cda)
 ### 10/06 금 : 손글씨 다중분류 / gradio 
 ### ![DeepLearning_code_06](https://github.com/Jang-jw/DeepLearning/assets/134268098/b7144c01-d1b3-4f70-856c-63501d1a0656)
 ### 10/10 화 : ZipFile / extractall / 이미지 전처리 / concatenate / savez_compressed 
