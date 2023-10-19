@@ -23,3 +23,4 @@
 ### 10/17 ultralytics / roboflow / YOLO / glob / cv2 
 ### ![DeepLearning_code_10](https://github.com/Jang-jw/DeepLearning/assets/134268098/e8c370e3-35c4-4496-8c6c-276a0298899d)
 ### ![DeepLearning_code_11](https://github.com/Jang-jw/DeepLearning/assets/134268098/de604ca1-eb26-42f8-b708-e77d0c166950)
+### 10/19 딥러닝 시험! 수업 끝! 
